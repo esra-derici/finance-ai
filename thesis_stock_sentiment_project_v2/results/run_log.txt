@@ -1,0 +1,10 @@
+
+=== Metrics ===
+ticker          model      MAE     RMSE     MAPE        R2  DirectionalAccuracy(%)
+ THYAO NaiveYesterday 0.641000 0.824360 0.601979  0.917399                0.000000
+ THYAO   RandomForest 4.108878 4.640808 3.797681 -1.617816               55.000000
+ BIMAS NaiveYesterday 0.788167 0.973097 0.650029  0.608433                0.000000
+ BIMAS   RandomForest 2.337619 2.745149 1.913711 -2.116198               51.666667
+ TUPRS NaiveYesterday 0.757667 0.948131 0.903023  0.811192                0.000000
+ TUPRS   RandomForest 1.503115 1.940324 1.786896  0.209263               33.333333
+
